@@ -1,0 +1,16 @@
+h1 {
+  text-align: center;
+}
+
+* {
+  background: #333;
+  color: white;
+}
+
+#input {
+  background: #111;
+}
+
+#submit {
+  background: #555;
+}
